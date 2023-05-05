@@ -1,0 +1,39 @@
+tatanavoronina@MacBook-Air-Tatana ~ % nslookup -port=1025 ya.ru 127.0.0.1
+Server:		127.0.0.1
+Address:	127.0.0.1#1025
+
+Non-authoritative answer:
+Name:	ya.ru
+Address: 77.88.55.242
+Name:	ya.ru
+Address: 5.255.255.242
+
+tatanavoronina@MacBook-Air-Tatana ~ % nslookup -port=1025 vk.com 127.0.0.1
+Server:		127.0.0.1
+Address:	127.0.0.1#1025
+
+Non-authoritative answer:
+Name:	vk.com
+Address: 87.240.132.78
+Name:	vk.com
+Address: 93.186.225.194
+Name:	vk.com
+Address: 87.240.132.67
+Name:	vk.com
+Address: 87.240.129.133
+Name:	vk.com
+Address: 87.240.132.72
+Name:	vk.com
+Address: 87.240.137.164
+
+tatanavoronina@MacBook-Air-Tatana ~ % nslookup -port=1025 java.com 127.0.0.1
+Server:		127.0.0.1
+Address:	127.0.0.1#1025
+
+Non-authoritative answer:
+Name:	java.com
+Address: 62.115.252.66
+Name:	java.com
+Address: 62.115.252.9
+
+tatanavoronina@MacBook-Air-Tatana ~ % 

@@ -1,0 +1,62 @@
+Cache is empty
+DNS server is running...
+Waiting for response
+Received response: ;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 39392
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+;; QUESTION SECTION:
+;ya.ru.                         IN      A
+;; ANSWER SECTION:
+ya.ru.                  407     IN      A       77.88.55.242
+ya.ru.                  407     IN      A       5.255.255.242
+
+Cached record:
+ya.ru.                  407     IN      A       77.88.55.242
+
+Cached record:
+ya.ru.                  407     IN      A       5.255.255.242
+
+Waiting for response
+Received response: ;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 37748
+;; flags: qr rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 0, ADDITIONAL: 0
+;; QUESTION SECTION:
+;vk.com.                        IN      A
+;; ANSWER SECTION:
+vk.com.                 570     IN      A       87.240.132.78
+vk.com.                 570     IN      A       93.186.225.194
+vk.com.                 570     IN      A       87.240.132.67
+vk.com.                 570     IN      A       87.240.129.133
+vk.com.                 570     IN      A       87.240.132.72
+vk.com.                 570     IN      A       87.240.137.164
+
+Cached record:
+vk.com.                 570     IN      A       87.240.132.78
+
+Cached record:
+vk.com.                 570     IN      A       93.186.225.194
+
+Cached record:
+vk.com.                 570     IN      A       87.240.132.67
+
+Cached record:
+vk.com.                 570     IN      A       87.240.129.133
+
+Cached record:
+vk.com.                 570     IN      A       87.240.132.72
+
+Cached record:
+vk.com.                 570     IN      A       87.240.137.164
+
+Waiting for response
+Received response: ;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 24471
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+;; QUESTION SECTION:
+;java.com.                      IN      A
+;; ANSWER SECTION:
+java.com.               18      IN      A       62.115.252.66
+java.com.               12      IN      A       62.115.252.9
+
+Cached record:
+java.com.               18      IN      A       62.115.252.66
+
+Cached record:
+java.com.               12      IN      A       62.115.252.9
