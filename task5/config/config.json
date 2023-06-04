@@ -1,0 +1,12 @@
+{
+  "host_address": "ddsusu2001@yandex.ru",
+  "port": 465,
+  "user_address": "",
+  "password": "",
+  "subject": "TEST MESSAGE",
+  "recipients": [
+    ""
+  ],
+  "message_file": "./config/text.txt",
+  "attachments": ["./config/Solod.png"]
+}
